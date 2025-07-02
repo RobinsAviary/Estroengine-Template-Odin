@@ -1,7 +1,7 @@
 {
     "$schema": "https://raw.githubusercontent.com/DanielGavin/ols/master/misc/ols.schema.json",
     "collections": [
-		{ "name": "estro", "path": "estroengine" }
+		{ "name": "estro", "path": "Estroengine-Odin" }
 	],
     "enable_document_symbols": true,
     "enable_hover": true,
